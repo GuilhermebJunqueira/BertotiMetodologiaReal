@@ -14,7 +14,7 @@ Tenho conhecimentos em JavaScript, Python, SQL, C# básico e desenvolvimento web
 
 * GitHub: https://github.com/guilhermebjunqueira
 * E-mail: [guilhermebjunqueira@gmail.com](mailto:guilhermebjunqueira@gmail.com)
-* LinkedIn: COLOQUE_SEU_LINKEDIN_AQUI
+* LinkedIn: [Guilherme Bezerra](https://www.linkedin.com/in/guilherme-bezerra-a01035170/) 
 
 ---
 
